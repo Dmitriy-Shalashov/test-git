@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import Button from "./components/Button";
 import "./App.css";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         >
           Learn React
         </a>
+        <Button />
       </header>
     </div>
   );
